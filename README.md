@@ -14,6 +14,7 @@ The Number Guessing Game is a simple command-line Python application where the c
 * Option to play again after each game
 
 ## Technologies Used
+
 * Python 3
 * Random Module
 
@@ -23,12 +24,20 @@ The Number Guessing Game is a simple command-line Python application where the c
 2. Download or clone this project.
 3. Open a terminal in the project directory.
 4. Run the program using:
+
+```bash
 py number_guessing_game.py
+```
+
 or
+
+```bash
 python number_guessing_game.py
+```
 
 ## Example Usage
 
+```text
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 
@@ -43,18 +52,21 @@ Congratulations! You guessed the number correctly in 3 attempts.
 
 Do you want to play again? (Yes/No): No
 Thanks for playing!
+```
 
 ## Project Structure
 
+```text
 number_guessing_game.py
 README.md
+```
 
 ## Learning Objectives
 
 This project demonstrates:
 
 * Functions
-* Loops (for and while)
+* Loops (`for` and `while`)
 * Conditional statements
 * Exception handling
 * User input validation
